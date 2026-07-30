@@ -1,2 +1,2 @@
 # raylib_builder
-用于在不同平台部署raylib
+用于部署[raylib](https://github.com/raysan5/raylib)
